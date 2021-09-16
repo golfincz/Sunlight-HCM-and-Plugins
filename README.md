@@ -8,11 +8,11 @@ HCM moduly pro sphereserver hry Ultima Online
    <li>Web online status</li>
 </ul>
 
-HCM moduly pro vícevrstvé fórum
+HCM moduly pro vÃ­cevrstvÃ© fÃ³rum
 
-<em>Více v readme pøímo u fora</em>
+<em>VÃ­ce v readme pÅ™Ã­mo u fora</em>
 <ul>
    <li>Forumlist</li>
-   <li>Poslední pøíspìvky</li>
-   <li>Skrytá fora pro uzavøenou skupinu</li>
+   <li>PoslednÃ­ pÅ™Ã­spÄ›vky</li>
+   <li>SkrytÃ¡ fora pro uzavÅ™enou skupinu</li>
 </ul>
