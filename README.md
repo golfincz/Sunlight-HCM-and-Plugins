@@ -1,7 +1,18 @@
 # Sunlight HCM and Plugins
-Pluginy a HCM moduly pro Sunlight
-#################################
+<strong>Pluginy a HCM moduly pro Sunlight CMS v. 8</strong>
+<hr>
 
 HCM moduly pro sphereserver hry Ultima Online
-* Web status
-* Vypsání posledních pøíspìvkù na foru
+<ul>
+   <li>Web players online</li>
+   <li>Web online status</li>
+</ul>
+
+HCM moduly pro vícevrstvé fórum
+
+<em>Více v readme pøímo u fora</em>
+<ul>
+   <li>Forumlist</li>
+   <li>Poslední pøíspìvky</li>
+   <li>Skrytá fora pro uzavøenou skupinu</li>
+</ul>
