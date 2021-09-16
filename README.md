@@ -1,7 +1,7 @@
 # Sunlight HCM and Plugins
 Pluginy a HCM moduly pro Sunlight
-#################################
+<hr>
 
 HCM moduly pro sphereserver hry Ultima Online
 * Web status
-* Vypsání posledních pøíspìvkù na foru
+* VypsÃ¡nÃ­ poslednÃ­ch pÅ™Ã­spÄ›vkÅ¯ na foru
