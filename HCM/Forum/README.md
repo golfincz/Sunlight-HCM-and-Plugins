@@ -8,9 +8,9 @@ Vícevrstvé foru je vlastně klasické forum, kdy si vytvoříte více zanořen
 
 K tomuto účelu jsem vytvořil tři HCM moduly, které umožní vidět pár prvků, které se mohou hodit.
 <ul>
-   <li>g_forumlist.php<br><small>g_forumlist vypíše poslední příspěvky v počtu, který zadáte. Hodí se umístit na stránky - sekce. Je možné zadat parametry podobně jako v recentpos.</li>
-   <li>g_last.php<br><small>g_last vypíše poslední nejnovější příspěvek. Umístění v tabulce fora na stránkách - sekce. Opět lze zadat parametry podobně, jako v recentpos, určit ze kterých for má hledat údaje.</li>
-   <li>g_forum_by_level.php<br><small>g_forum_by_level vypíše tabulku fora, kterou máte ošetřenou level přístupem. Zatím není hotové načítání posledního příspěvku (g_last).</li>
+   <li>g_forumlist.php<br><em>g_forumlist vypíše poslední příspěvky v počtu, který zadáte. Hodí se umístit na stránky - sekce. Je možné zadat parametry podobně jako v recentpos.</em></li>
+   <li>g_last.php<br><em>g_last vypíše poslední nejnovější příspěvek. Umístění v tabulce fora na stránkách - sekce. Opět lze zadat parametry podobně, jako v recentpos, určit ze kterých for má hledat údaje.</em></li>
+   <li>g_forum_by_level.php<br><em>g_forum_by_level vypíše tabulku fora, kterou máte ošetřenou level přístupem. Zatím není hotové načítání posledního příspěvku (g_last).</em></li>
 </ul>
 
 Pro lepší pochopení uvádím obrázky a example kod pro obsah stránek - sekce.
