@@ -1,4 +1,11 @@
 <?php
+// ******************************************************************
+// Uloženo v ANSI kódování
+// ******************************************************************
+// HCM pro zobrazení jednoho výpisu Poslední odpovìdí v tabulce Fora
+// Created by Golfin eranova.cz
+// ******************************************************************
+// Poslední aktualizace souboru: 17.9.2021
 
 use Sunlight\Post\PostService;
 use Sunlight\Database\Database as DB;
