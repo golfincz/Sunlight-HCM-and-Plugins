@@ -26,12 +26,6 @@
 // Poslední aktualizace souboru: 17.9.2021
 
 use Sunlight\Database\Database as DB;
-use Sunlight\GenericTemplates;
-use Sunlight\Comment\Comment;
-use Sunlight\Router;
-use Sunlight\User;
-use Sunlight\Util\Arr;
-use Sunlight\Util\StringManipulator;
 
 return function ($uid = null) {
     $result = "";
