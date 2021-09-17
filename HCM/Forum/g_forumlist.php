@@ -1,4 +1,14 @@
 <?php
+// ******************************************************************
+// Uloženo v ANSI kódování
+// ******************************************************************
+// HCM pro zobrazení 10-ti výpisù Posledních odpovìdí z Fóra
+// Lze nastavit která fora mají být vypsána.
+// Je potøeba si vytvoøit v css tøídy post-answer-list a 
+// posts.forum.lastact
+// Created by Golfin eranova.cz
+// ******************************************************************
+// Poslední aktualizace souboru: 17.9.2021
 
 use Sunlight\Post\PostService;
 use Sunlight\Database\Database as DB;
