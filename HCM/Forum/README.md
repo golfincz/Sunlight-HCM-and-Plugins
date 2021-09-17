@@ -15,8 +15,6 @@ K tomuto účelu jsem vytvořil tři HCM moduly, které umožní vidět pár prv
 
 Pro lepší pochopení uvádím obrázky a example kod pro obsah stránek - sekce.
 
-<ul>
-   <li><img src='https://raw.githubusercontent.com/golfincz/Sunlight-HCM-and-Plugins/HCM/HCM/Forum/forum_admin.png' alt='Admin část' /></li>
-   <li><img src='https://raw.githubusercontent.com/golfincz/Sunlight-HCM-and-Plugins/HCM/HCM/Forum/forum_public.png' alt='Veřejná část' /></li>
-   <li>https://github.com/golfincz/Sunlight-HCM-and-Plugins/blob/HCM/HCM/Forum/example_sekce_forum_kod.html</li>
-</ul>
+<img src='https://raw.githubusercontent.com/golfincz/Sunlight-HCM-and-Plugins/HCM/HCM/Forum/forum_admin.png' alt='Admin část' />
+<img src='https://raw.githubusercontent.com/golfincz/Sunlight-HCM-and-Plugins/HCM/HCM/Forum/forum_public.png' alt='Veřejná část' />
+https://github.com/golfincz/Sunlight-HCM-and-Plugins/blob/HCM/HCM/Forum/example_sekce_forum_kod.html
