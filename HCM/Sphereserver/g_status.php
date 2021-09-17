@@ -1,4 +1,24 @@
 <?php
+// ******************************************************************
+// Uloženo v ANSI kódování
+// ******************************************************************
+// HCM pro zobrazení Online hráèù hry Ultima Online
+// Vytvoøeno pro sphereserver
+// Nutno vytvoøit tabulku v DB sn_players_online
+/** CREATE TABLE IF NOT EXISTS `sn_players_online` (
+ * `uid` int(11) NOT NULL AUTO_INCREMENT,
+ * `name` varchar(50) DEFAULT NULL,
+ * `race` varchar(50) DEFAULT NULL,
+ * `job` varchar(50) DEFAULT NULL,
+ * `karma` int(5) NOT NULL,
+ * `fame` int(5) NOT NULL,
+ * `skilltotal` varchar(7) DEFAULT NULL,
+ * PRIMARY KEY (`uid`)
+ * ) ENGINE=MyISAM AUTO_INCREMENT=8092 DEFAULT CHARSET=utf8;
+*/
+// Created by Golfin eranova.cz
+// ******************************************************************
+// Poslední aktualizace souboru: 17.9.2021
 
 use Sunlight\Database\Database as DB;
 use Sunlight\GenericTemplates;
