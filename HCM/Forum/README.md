@@ -10,7 +10,8 @@ K tomuto účelu jsem vytvořil tři HCM moduly, které umožní vidět pár prv
 <ul>
    <li>g_forumlist.php<br><em>g_forumlist vypíše poslední příspěvky v počtu, který zadáte. Hodí se umístit na stránky - sekce. Je možné zadat parametry podobně jako v recentpos.</em></li>
    <li>g_last.php<br><em>g_last vypíše poslední nejnovější příspěvek. Umístění v tabulce fóra na stránkách - sekce. Opět lze zadat parametry podobně, jako v recentpos, určit ze kterých fór má hledat údaje.</em></li>
-   <li>g_forum_by_level.php<br><em>g_forum_by_level vypíše tabulku fóra, kterou máte ošetřenou level přístupem. Zatím není hotové načítání posledního příspěvku (g_last).</em></li>
+   <li>g_forum_by_level.php<br><em>g_forum_by_level vypíše tabulku fóra, kterou máte ošetřenou level přístupem.</em></li>
+   <li>g_last_level.php<br><em>g_last_level je vlastně HCM g_last s tím, že má přesně určeno, které ID stránek má vypsat ze skrytého Fóra s přístupem podle levelu. Pokud jicj je více, bude potřeba zkopírovat HCM a pojmenovat podle danného fora. Zatím je to nejjednodušší řešení.</em></li>
 </ul>
 
 Pro lepší pochopení uvádím obrázky a example kod pro obsah stránek - sekce.
